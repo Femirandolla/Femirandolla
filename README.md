@@ -1,7 +1,7 @@
 ## Olá, me chamo Fernando Mirandolla
 ### Bem vindo ao meu perfil 🔥
 
-- 🔭 Estudo pela plataforma Alura e curso SI no Senac
+- 🔭 Sou aluno de sistema de informação na FIAP
 - 🌱 Atualmente estou aprendendo automação de testes
 - 👯 Estou procurando colaborar em empresas
 - 📫 Como entrar em contato comigo: mirandolla99@gmail.com
